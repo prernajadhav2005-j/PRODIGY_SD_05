@@ -14,9 +14,9 @@
 4. Technologies Used:-
      - Programming Language: Python
      - Libraries Used:
-             1. requests – to fetch webpage content
-             2. BeautifulSoup – to parse HTML
-             3. csv – to store data in CSV format
+             - requests – to fetch webpage content
+             - BeautifulSoup – to parse HTML
+             - csv – to store data in CSV format
 
 5. How the Program Works:-
      - Sends an HTTP request to the target website.
