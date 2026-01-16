@@ -24,3 +24,5 @@
      - Parses the HTML using BeautifulSoup.
      - Extracts product details such as name, price, and rating.
      - Saves the extracted data into a CSV file.
+
+6. Author:- Prerna Jadhav
